@@ -2,21 +2,6 @@
 
 
 TV Series is a tool that scrapes Episode Synopsis' of popular TV Series' from websites like Wikipedia / IMDb and shows it all in one single place, with a better user-friendly navigation UI. 
-    
-Website is accessible at https://athityakumar.github.io/tvseries/index.html
-
-> Maintainers - [Athitya Kumar](https://github.com/athityakumar), [Dhruv Apte](https://github.com/the-ethan-hunt)
-
-
-# List of contents
-
-- [To-do](#to-do)
-- [Supported TV Series](#supported-tv-series)
-- [Resources](#resources)
-- [How to contribute](#how-to-contribute)
-- [License](#license)
-
-
 
 ## To-do
 
@@ -29,9 +14,6 @@ Website is accessible at https://athityakumar.github.io/tvseries/index.html
 - [x] Add JSON files with proper structure
 - [ ] Add scraping script (WIP)
 - [x] Add HTML pages generator script
-- [x] Add master shell-script that runs all scripts, and pushes changes into this repository
-    - [x] Shell-script to deploy : [deploy.sh](https://github.com/athityakumar/tvseries/blob/master/deploy.sh)
-    - [x] Ruby git program for smart auto-commit messages : [git.rb](https://github.com/athityakumar/tvseries/blob/master/git.rb.sh)
 - [ ] Add a cron job for the master shell-script
 
 ## Supported TV Series'
@@ -145,6 +127,6 @@ Bug fixes,Issues , Issue solutions , Optimizations , Enhancements are always wel
 
 [Back to contents](#list-of-contents)
  
-The MIT License Copyright (c) 2017 - [Athitya Kumar](https://github.com/athityakumar).
+The MIT License Copyright (c) 2017.
 
 Please have a look at the [LICENSE.md](LICENSE.md) for more details
